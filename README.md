@@ -50,5 +50,5 @@ I want to work on bringing my implementations closer to the designs given.
 ## Author
 
 - Website - [Richard](https://github.com/richie-omondi)
-- Frontend Mentor - [@ricchie-omondi](https://www.frontendmentor.io/profile/richie-omondi)
+- Frontend Mentor - [@richie-omondi](https://www.frontendmentor.io/profile/richie-omondi)
 - Twitter - [@richard_orido](https://www.twitter.com/richard_orido)
