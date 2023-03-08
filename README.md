@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned how to use Bootstrap to quickly come up with a card that I can the QR code image and begin styling it using different classes. I also learned how to implement semantic HTML5 to improve code readabilty and accessibility.
+I learned how to use Bootstrap to quickly come up with a card that I can use to add the QR code image and then begin styling it using different classes. I also learned how to implement semantic HTML5 to improve code readabilty and accessibility.
 
 ### Continued development
 
